@@ -53,12 +53,12 @@ Proyek ini terdiri dari dua file Python utama.
 
 - **Untuk menjalankan aplikasi 2D:**
   ```sh
-  python aplikasi_2d.py
+  python Modul_A_2D.py
   ```
 
 - **Untuk menjalankan aplikasi 3D:**
   ```sh
-  python aplikasi_3d.py
+  python Modul_B_3D.py
   ```
 Setelah dijalankan, panduan penggunaan lengkap akan muncul di terminal untuk masing-masing aplikasi.
 
