@@ -69,6 +69,3 @@ Setelah dijalankan, panduan penggunaan lengkap akan muncul di terminal untuk mas
 - [cite_start]**Universitas**: Universitas Muhammadiyah Malang [cite: 5]
 - [cite_start]**Fakultas**: Fakultas Teknik [cite: 6]
 - [cite_start]**Program Studi**: Informatika [cite: 7]
-
-## 📝 Lisensi
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detailnya.
