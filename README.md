@@ -2,19 +2,6 @@
 
 [cite_start]Proyek ini merupakan tugas akhir untuk mata kuliah Grafika Komputer[cite: 1, 2], yang diimplementasikan menggunakan Python dan pustaka PyOpenGL. Proyek ini terdiri dari dua aplikasi utama: sebuah program menggambar 2D interaktif dan sebuah program visualisasi objek 3D.
 
-## 📸 Pratinjau Aplikasi
-
-<table>
-  <tr>
-    <td align="center"><b>Aplikasi 2D: Windowing & Clipping</b></td>
-    <td align="center"><b>Aplikasi 3D: Shading & Transformasi</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.ibb.co/L5k6NCh/2d-clipping.png" alt="Pratinjau Aplikasi 2D"></td>
-    <td><img src="https://i.ibb.co/F8C06mQ/3d-transformed.png" alt="Pratinjau Aplikasi 3D"></td>
-  </tr>
-</table>
-
 ## ✨ Fitur Utama
 
 ### 🎨 Aplikasi 2D Interaktif
