@@ -1,0 +1,21 @@
+# File .obj untuk Piramida Sempurna
+# Dibuat dengan 5 titik (vertices) dan 6 permukaan segitiga (faces)
+
+# Definisi Titik (Vertices)
+# 4 titik untuk dasar, 1 titik untuk puncak
+v 1.0 -1.0 1.0
+v 1.0 -1.0 -1.0
+v -1.0 -1.0 -1.0
+v -1.0 -1.0 1.0
+v 0.0 1.0 0.0
+
+# Definisi Permukaan (Faces)
+# Dasar piramida (terdiri dari 2 segitiga)
+f 1 2 3
+f 1 3 4
+
+# Sisi-sisi piramida (terdiri dari 4 segitiga)
+f 1 5 2
+f 2 5 3
+f 3 5 4
+f 4 5 1
